@@ -15,6 +15,7 @@ elsif array.length == 5
   array = array.join(", ") 
   array.insert(-14, "and ")
 end
+end
 
 
 
